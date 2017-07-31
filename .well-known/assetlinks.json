@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.franco.gratus",
+    "sha256_cert_fingerprints":
+    ["37:8F:7F:71:A8:2B:15:09:69:8A:54:9D:A7:FD:BD:53:EF:89:93:65:CB:A5:C6:22:38:E1:53:7E:E7:96:67:BC"]
+  }
+}]
